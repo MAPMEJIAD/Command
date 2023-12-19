@@ -1,0 +1,14 @@
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\bin\Debug\net7.0\PaternCommand.exe
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\bin\Debug\net7.0\PaternCommand.deps.json
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\bin\Debug\net7.0\PaternCommand.runtimeconfig.json
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\bin\Debug\net7.0\PaternCommand.dll
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\bin\Debug\net7.0\PaternCommand.pdb
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\PaternCommand.GeneratedMSBuildEditorConfig.editorconfig
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\PaternCommand.AssemblyInfoInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\PaternCommand.AssemblyInfo.cs
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\PaternCommand.csproj.CoreCompileInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\PaternCommand.dll
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\refint\PaternCommand.dll
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\PaternCommand.pdb
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\PaternCommand.genruntimeconfig.cache
+D:\АлтГУ\Сессия\АПС\Lab7\PaternCommand-master\PaternCommand\obj\Debug\net7.0\ref\PaternCommand.dll
